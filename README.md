@@ -1,0 +1,1 @@
+Developed a solo 2D rescuing robot game in C, featuring a robot navigating an unknown planet to rescue people amidst increasing difficulty, including randomly spawning obstacles and potential speed boosts.
